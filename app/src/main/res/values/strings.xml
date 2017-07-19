@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Facebook Profile Data</string>
+    <string name="facebook_app_id">149397282278304</string>
+    <string name="fb_login_protocol_scheme">fb149397282278304</string>
 </resources>
